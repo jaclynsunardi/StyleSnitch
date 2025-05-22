@@ -40,7 +40,7 @@ Built for artists, designers, and digital creators who want insight into their e
 
 
 ## Folder Structure
-
+```bash
 StyleSnitch/
 ├── backend/
 │   ├── app.py
@@ -56,7 +56,7 @@ StyleSnitch/
 ├── README.md
 ├── requirements.txt
 └── LICENSE.md
-
+```
 
 ## Getting Started
 
