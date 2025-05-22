@@ -43,18 +43,19 @@ Built for artists, designers, and digital creators who want insight into their e
 
 StyleSnitch/
 ├── backend/
-│ ├── app.py
-│ ├── model_utils.py
-│ └── embeddings/
+│   ├── app.py
+│   ├── model_utils.py
+│   └── embeddings/
 ├── frontend/
-│ ├── src/
-│ └── public/
+│   ├── src/
+│   └── public/
 ├── docs/
-│ └── screenshots, diagrams, etc.
+│   └── screenshots, diagrams, etc.
 ├── tests/
-│ └── backend_tests.py
+│   └── backend_tests.py
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── LICENSE.md
 
 
 ## Getting Started
